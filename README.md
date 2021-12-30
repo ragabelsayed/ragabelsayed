@@ -33,8 +33,7 @@ Here are some ideas to get you started: -->
 
 - 🔧
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![AndoidStudio](https://img.shields.io/badge/-AndoidStudio-333333?style=flat&logo=astudio)
-
+  ![AndoidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=androidstudio)
 
 
 <!-- <h2> Hey there! I'm Aditya.</h2>
