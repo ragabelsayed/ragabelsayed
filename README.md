@@ -1,9 +1,4 @@
 ### Hey there! I'm Ragab👋
-
-
-<!-- **ragabelsayed/ragabelsayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
 ## 👨🏻‍💻 About Me
 
 - 🔭 Building mobile apps using Flutter and Dart.
@@ -14,11 +9,6 @@ Here are some ideas to get you started: -->
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 ## 🛠 Tech Stack
 - 💻
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=276DC3)
@@ -45,7 +35,6 @@ Here are some ideas to get you started: -->
 
 ## 🤝🏻 Connect with Me
 <p align="center">
-<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/ragab-elsayed-89a38718b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ragab%20Elsayed%20Atia-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ragabelsayed37@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ragabelsayed37@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
