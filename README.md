@@ -17,6 +17,24 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+## 🛠 Tech Stack
+- 💻
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=276DC3)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 🖥 
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=276DC3)
+  ![AI & ML](https://img.shields.io/badge/-AI&ML-333333?style=flat&logo=ai&ml&logo)
+- 🛢 
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=#f1c232)
+- ⚙️
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+- 🔧
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![AndoidStudio](https://img.shields.io/badge/-AndoidStudio-333333?style=flat&logo=astudio)
+
 
 
 <!-- <h2> Hey there! I'm Aditya.</h2>
