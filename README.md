@@ -36,6 +36,11 @@ Here are some ideas to get you started: -->
   ![AndoidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=androidstudio)
 
 
+<a href="https://github.com/ragabelsayed">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ragabelsayed&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragabelsayed&theme=buefy&layout=compact" />
+</a>
+
 <!-- <h2> Hey there! I'm Aditya.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
