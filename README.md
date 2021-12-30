@@ -45,7 +45,7 @@ Here are some ideas to get you started: -->
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/ragab-elsayed-89a38718b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ragab%20Elsayed%20Atia-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:ragabelsayed37@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ragabelsayed37@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <!-- <h2> Hey there! I'm Aditya.</h2>
 
