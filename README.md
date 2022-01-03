@@ -1,7 +1,7 @@
 ### Hey there! I'm Ragab👋
 ## 👨🏻‍💻 About Me
 
-- 🔭 Building mobile apps using Flutter and Dart.
+- 🔭 Building mobile apps using Flutter and Dart
 - 🌱 Currently learning AI & ML.
 - 💼 Working as a Freelance Flutter developer.
 - 🎓 Studied Computer Science at Mansoura University.
