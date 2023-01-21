@@ -10,14 +10,23 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 ## 🛠 Tech Stack
-- 💻
+- 📋
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=276DC3)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🖥 
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=ffdd54)
+- 🤖 
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=276DC3)
   ![AI & ML](https://img.shields.io/badge/-AI&ML-333333?style=flat&logo=ai&ml&logo)
+- 💻 
+  ![NumPy](https://img.shields.io/badge/numpy-333333?style=flat&logo=numpy)
+  ![Pandas](https://img.shields.io/badge/pandas-333333?style=flat&logo=pandas)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=matplotlib&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-333333?style=flat&logo=scikit-learn&logoColor=white)
+  ![Scipy](https://img.shields.io/badge/SciPy-333333?style=flat&logo=scipy&logoColor=%white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=flat&logo=TensorFlow&logoColor=white)
+  
 - 🛢 
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=#f1c232)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql&logoColor=#f1c232)
 - ⚙️
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -26,6 +35,7 @@
 - 🔧
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![AndoidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=androidstudio)
+  ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
 
 
 <a href="https://github.com/ragabelsayed">
