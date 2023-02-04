@@ -21,7 +21,7 @@
   ![Pandas](https://img.shields.io/badge/pandas-333333?style=flat&logo=pandas)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=matplotlib&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-333333?style=flat&logo=scikit-learn&logoColor=white)
-  ![Scipy](https://img.shields.io/badge/SciPy-333333?style=flat&logo=scipy&logoColor=%white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-333333?style=flat&logo=seaborn&logoColor=%white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=flat&logo=TensorFlow&logoColor=white)
   
 - 🛢 
@@ -36,6 +36,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![AndoidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=androidstudio)
   ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
 
 
 <a href="https://github.com/ragabelsayed">
